@@ -3,5 +3,5 @@ version: '${project.version}'
 main: me.github.reportcardsmc.plosk.Plosk
 softdepend: [ PlotSquared ]
 depend: [ Skript ]
-authors: [ ReportCardsMC ]
-description: Skript addon for plot squared 6 support
+authors: [ "ReportCardsMC", "044mzcy_og" ]
+description: Skript addon for plot squared 7 support
